@@ -28,7 +28,7 @@ This Tool shows you how many multipliers the lucky plane will fly to make it eas
 
 1. After launching, the Login Screen will appear.
 
-2. Username: ```admin```
+2. Username: ```aviator```
 
 5. Password: You can find out by pressing Forgot Password
 
